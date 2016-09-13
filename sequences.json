@@ -1,26 +1,26 @@
 [
-	{
-		"id": 1,
-		"version": 1, 
-		"name": "Primera secuencia de Yoga",
-		"description": "Se espera lograr reducir tu ansiedad",
-		"files": [
-			{
-				"index": 0,
-				"url": "https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Agnistambhasana-660x650.jpg"
-			},
-			{
-				"index": 1,
-				"url": "https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Ardha-Ananda-Balasana-660x650.jpg"
-			},
-			{
-				"index": 2,
-				"url": "https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Baddha-Konasana-660x650.jpg"
-			},
-			{
-				"index": 3,
-				"url": "https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Eka-Pada-Rajakapotasana-I-660x650.jpg"
-			}
-		]
-	}
+  {
+    "id":1,
+    "version":1,
+    "name":"Primera secuencia de Yoga",
+    "description":"Se espera lograr reducir tu ansiedad",
+    "files":[
+      {
+        "index":0,
+        "url":"https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Agnistambhasana-660x650.jpg"
+      },
+      {
+        "index":1,
+        "url":"https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Ardha-Ananda-Balasana-660x650.jpg"
+      },
+      {
+        "index":2,
+        "url":"https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Baddha-Konasana-660x650.jpg"
+      },
+      {
+        "index":3,
+        "url":"https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Eka-Pada-Rajakapotasana-I-660x650.jpg"
+      }
+    ]
+  }
 ]
