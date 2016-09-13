@@ -1,6 +1,7 @@
 {
-	"sequences": {
-		"1": {
+	"sequences": [
+		{
+			"id": "1",
 			"version": "1", 
 			"name": "Primera secuencia de Yoga",
 			"files": {
@@ -10,5 +11,5 @@
 				"4": "https://raw.githubusercontent.com/jachicao/Testing/master/Sequences1/Eka-Pada-Rajakapotasana-I-660x650.jpg"
 			}
 		}
-	}
+	]
 }
