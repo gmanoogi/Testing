@@ -118,5 +118,29 @@
                 "url":"4/3.jpg"
             }
         ]
+    },
+    {
+        "id":5,
+        "name":"Quinta secuencia",
+        "description":"Se espera lograr reducir tu ansiedad",
+        "thumbnail": "5/thumbnail.jpg",
+        "images":[
+            {
+                "index":0,
+                "url":"5/0.jpg"
+            },
+            {
+                "index":1,
+                "url":"5/1.jpg"
+            },
+            {
+                "index":2,
+                "url":"5/2.jpg"
+            },
+            {
+                "index":3,
+                "url":"5/3.jpg"
+            }
+        ]
     }
 ]
