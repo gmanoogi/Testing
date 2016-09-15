@@ -3,7 +3,7 @@
         "id":0,
         "name":"Primera secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "0/thumbnail.jpg",
+        "preview": "0/preview.jpg",
         "images":[
             {
                 "index":0,
@@ -27,7 +27,7 @@
         "id":1,
         "name":"Segunda secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "1/thumbnail.jpg",
+        "preview": "1/preview.jpg",
         "images":[
             {
                 "index":0,
@@ -51,7 +51,7 @@
         "id":2,
         "name":"Tercera secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "2/thumbnail.jpg",
+        "preview": "2/preview.jpg",
         "images":[
             {
                 "index":0,
@@ -75,7 +75,7 @@
         "id":3,
         "name":"Cuarta secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "3/thumbnail.jpg",
+        "preview": "3/preview.jpg",
         "images":[
             {
                 "index":0,
@@ -99,7 +99,7 @@
         "id":4,
         "name":"Quinta secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "4/thumbnail.jpg",
+        "preview": "4/preview.jpg",
         "images":[
             {
                 "index":0,
@@ -123,7 +123,7 @@
         "id":5,
         "name":"Sexta secuencia",
         "description":"Se espera lograr reducir tu ansiedad",
-        "thumbnail": "5/thumbnail.jpg",
+        "preview": "5/preview.jpg",
         "images":[
             {
                 "index":0,
