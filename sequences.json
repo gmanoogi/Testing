@@ -1,8 +1,8 @@
 [
     {
         "id":0,
-        "name":"Primera secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
+        "name":"¡Concéntrate!",
+        "description":"Esta secuencia de Yoga te ayudará a lograr un estado de concentración, para situaciones en las que es necesario lograr efocarse. Perfecta para antes de una prueba.",
         "preview": "0/preview.jpg",
         "images":[
             {
@@ -25,8 +25,8 @@
     },
     {
         "id":1,
-        "name":"Segunda secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
+        "name":"¡Desactívate!",
+        "description":"Utiliza estos ejercicios antes de acostarte o cuando necesites relajarte. Te ayudarán a dejar de lado las tensiones corporales y a llegar a un estado de calma y tranquilidad.",
         "preview": "1/preview.jpg",
         "images":[
             {
@@ -49,8 +49,8 @@
     },
     {
         "id":2,
-        "name":"Tercera secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
+        "name":"¡Empodérate!",
+        "description":"Esta secuencia te servirá para ganar confianza y tomar control de tu propia mente y cuerpo. Es perfecta para antes de una entrevista demandante o una presentación oral.",
         "preview": "2/preview.jpg",
         "images":[
             {
@@ -68,78 +68,6 @@
             {
                 "index":3,
                 "url":"2/3.jpg"
-            }
-        ]
-    },
-    {
-        "id":3,
-        "name":"Cuarta secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
-        "preview": "3/preview.jpg",
-        "images":[
-            {
-                "index":0,
-                "url":"3/0.jpg"
-            },
-            {
-                "index":1,
-                "url":"3/1.jpg"
-            },
-            {
-                "index":2,
-                "url":"3/2.jpg"
-            },
-            {
-                "index":3,
-                "url":"3/3.jpg"
-            }
-        ]
-    },
-    {
-        "id":4,
-        "name":"Quinta secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
-        "preview": "4/preview.jpg",
-        "images":[
-            {
-                "index":0,
-                "url":"4/0.jpg"
-            },
-            {
-                "index":1,
-                "url":"4/1.jpg"
-            },
-            {
-                "index":2,
-                "url":"4/2.jpg"
-            },
-            {
-                "index":3,
-                "url":"4/3.jpg"
-            }
-        ]
-    },
-    {
-        "id":5,
-        "name":"Sexta secuencia",
-        "description":"Se espera lograr reducir tu ansiedad",
-        "preview": "5/preview.jpg",
-        "images":[
-            {
-                "index":0,
-                "url":"5/0.jpg"
-            },
-            {
-                "index":1,
-                "url":"5/1.jpg"
-            },
-            {
-                "index":2,
-                "url":"5/2.jpg"
-            },
-            {
-                "index":3,
-                "url":"5/3.jpg"
             }
         ]
     }
