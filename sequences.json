@@ -2,7 +2,7 @@
     {
         "id":0,
         "name":"¡Concéntrate!",
-        "description":"Esta secuencia de Yoga te ayudará a lograr un estado de concentración, para situaciones en las que es necesario lograr efocarse. Perfecta para antes de una prueba.",
+        "description":"",
         "preview": "0/preview.jpg",
         "images":[
             {
@@ -26,7 +26,7 @@
     {
         "id":1,
         "name":"¡Desactívate!",
-        "description":"Utiliza estos ejercicios antes de acostarte o cuando necesites relajarte. Te ayudarán a dejar de lado las tensiones corporales y a llegar a un estado de calma y tranquilidad.",
+        "description":"",
         "preview": "1/preview.jpg",
         "images":[
             {
@@ -50,7 +50,7 @@
     {
         "id":2,
         "name":"¡Empodérate!",
-        "description":"Esta secuencia te servirá para ganar confianza y tomar control de tu propia mente y cuerpo. Es perfecta para antes de una entrevista demandante o una presentación oral.",
+        "description":"",
         "preview": "2/preview.jpg",
         "images":[
             {
