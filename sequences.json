@@ -3,23 +3,23 @@
         "id":0,
         "name":"¡Concéntrate!",
         "description":"Esta secuencia de Yoga te ayudará a lograr un estado de concentración, para situaciones en las que es necesario lograr efocarse. Perfecta para antes de una prueba.",
-        "preview": "0/preview.jpg",
+        "preview": "sequences/0/preview.jpg",
         "images":[
             {
                 "index":0,
-                "url":"0/0.jpg"
+                "url":"sequences/0/0.jpg"
             },
             {
                 "index":1,
-                "url":"0/1.jpg"
+                "url":"sequences/0/1.jpg"
             },
             {
                 "index":2,
-                "url":"0/2.jpg"
+                "url":"sequences/0/2.jpg"
             },
             {
                 "index":3,
-                "url":"0/3.jpg"
+                "url":"sequences/0/3.jpg"
             }
         ]
     },
@@ -27,19 +27,19 @@
         "id":1,
         "name":"¡Desactívate!",
         "description":"Utiliza estos ejercicios antes de acostarte o cuando necesites relajarte. Te ayudarán a dejar de lado las tensiones corporales y a llegar a un estado de calma y tranquilidad.",
-        "preview": "1/preview.jpg",
+        "preview": "sequences/1/preview.jpg",
         "images":[
             {
                 "index":0,
-                "url":"1/0.jpg"
+                "url":"sequences/1/0.jpg"
             },
             {
                 "index":1,
-                "url":"1/1.jpg"
+                "url":"sequences/1/1.jpg"
             },
             {
                 "index":2,
-                "url":"1/2.jpg"
+                "url":"sequences/1/2.jpg"
             }
         ]
     },
@@ -47,23 +47,23 @@
         "id":2,
         "name":"¡Empodérate!",
         "description":"Esta secuencia te servirá para ganar confianza y tomar control de tu propia mente y cuerpo. Es perfecta para antes de una entrevista demandante o una presentación oral.",
-        "preview": "2/preview.jpg",
+        "preview": "sequences/2/preview.jpg",
         "images":[
             {
                 "index":0,
-                "url":"2/0.jpg"
+                "url":"sequences/2/0.jpg"
             },
             {
                 "index":1,
-                "url":"2/1.jpg"
+                "url":"sequences/2/1.jpg"
             },
             {
                 "index":2,
-                "url":"2/2.jpg"
+                "url":"sequences/2/2.jpg"
             },
             {
                 "index":3,
-                "url":"2/3.jpg"
+                "url":"sequences/2/3.jpg"
             }
         ]
     }
