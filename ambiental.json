@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "sound": "/ambiental/0/sound.mp3",
+        "preview": "/ambiental/0/preview.jpg",
+        "name": "¡Concéntrate!",
+        "description": "Te ayudará a lograr un estado de concentración, para situaciones en las que es necesario lograr efocarse. Perfecto para antes de una prueba."
+    },
+    {
+        "id": 1,
+        "sound": "/ambiental/1/sound.mp3",
+        "preview": "/ambiental/1/preview.jpg",
+        "name": "¡Desactívate!",
+        "description": "Utilizalo antes de acostarte o cuando necesites relajarte. Te ayudará a dejar de lado las tensiones corporales y a llegar a un estado de calma y tranquilidad."
+    },
+    {
+        "id": 2,
+        "sound": "/ambiental/2/sound.mp3",
+        "preview": "/ambiental/2/preview.jpg",
+        "name": "¡Empodérate!",
+        "description": "Te servirá para ganar confianza y tomar control de tu propia mente y cuerpo. Es perfecta para antes de una entrevista demandante o una presentación oral."
+    },
+]
